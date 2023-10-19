@@ -6,7 +6,7 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-
+*https://github.com/kamausuzan197/Shopping-analu.git
 * System dependencies
 
 * Configuration
